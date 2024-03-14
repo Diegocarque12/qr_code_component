@@ -1,6 +1,6 @@
 # Astro - QR Component
 
-[Open deplyed version![Open deployed version](/public/vercel.svg)](https://fe-mentor-qr-code-component-six.vercel.app/)
+[Open deployed version](https://fe-mentor-qr-code-component-six.vercel.app/)
 
 > 🧑‍🚀 **Preview Image**
 
