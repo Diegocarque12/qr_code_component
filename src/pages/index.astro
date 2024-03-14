@@ -3,10 +3,20 @@ import Layout from "../layouts/Layout.astro";
 import Card from "../components/Card.astro";
 ---
 
-<Layout title="Welcome to Astro.">
+<Layout title="Frontend Mentor | QR code component">
   <main
-    class="bg-lightGrey min-h-screen w-screen flex justify-center items-center"
+    class="bg-lightGrey min-h-screen w-full flex justify-center items-center"
   >
     <Card />
   </main>
+  <footer class="attribution px-4 bg-lightGrey text-center pb-4 text-balance">
+    Challenge by <a
+      href="https://www.frontendmentor.io?ref=challenge"
+      target="_blank">Frontend Mentor</a
+    >. Coded by <a
+      class="font-bold"
+      href="https://www.dcarvajal.me"
+      target="_blank">Diego Carvajal</a
+    >.
+  </footer>
 </Layout>
